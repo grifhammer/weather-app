@@ -1,0 +1,15 @@
+body{
+
+}
+
+#site-wrapper{
+	margin: auto;
+	max-width: 1000px;
+	/*overflow: hidden;*/
+}
+
+#content-wrapper{
+	overflow: hidden;
+	/*width: 1000px;*/
+	margin: auto;
+}
